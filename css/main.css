@@ -1,0 +1,16 @@
+div {
+	height: 200px;
+	width: 200px;
+	margin: 0px;
+	padding: 0px;
+	position: static;
+}
+#red {
+	background-color: #ee3e64;
+}
+#blue {
+	background-color: #44accf;
+}
+#green {
+	background-color: #b7d84b;
+}
