@@ -1,7 +1,7 @@
 div {
 	height: 100px;
 	width: 200px;
-	position: absolute;
+	position: relative;
 }
 #red {
 	background-color: #ee3e64;
@@ -10,8 +10,8 @@ div {
 }
 #blue {
 	background-color: #44accf;
-	right: 0px;
-	top: 0px;
+	position: absolute;
+	left: 200px;
 }
 #green {
 	background-color: #b7d84b;
